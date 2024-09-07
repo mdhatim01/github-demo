@@ -6,3 +6,6 @@ Shradha Khapra(microsoft wali didi).
 
 # students
 Delta batch
+
+# my self
+I am Mohammad Hatim
